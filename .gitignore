@@ -1,0 +1,4 @@
+run_game.spec
+/dist
+/build
+*pyc
